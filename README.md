@@ -23,19 +23,19 @@ Designed as a professional client-facing interface for freelancers and agencies 
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### Messages
 
-![Messages](screenshots/messages.png)
+![Messages](public/screenshots/messages.png)
 
 ### Documents
 
-![Documents](screenshots/documents.png)
+![Documents](public/screenshots/documents.png)
 
 ### Settings
 
-![Settings](screenshots/settings.png)
+![Settings](public/screenshots/settings.png)
 
 ---
 
